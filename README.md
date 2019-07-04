@@ -1,7 +1,7 @@
 # calculator
 Swift project.
 
-Calculator with autolayout, full functionality (like basic macOS one in standart mode), feel free for view and make sure he has no overflows (no crash).
+Calculator with autolayout, full functionality (like basic macOS one in standard mode), feel free for view and make sure he has no overflows (no crash).
 
 Example 1
 
